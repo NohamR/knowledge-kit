@@ -4,7 +4,7 @@
 第一部分主要介绍 iOS 开发中遇到的问题或者有趣的知识
 
   * [1、工程大小优化之图片资源](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.1.md)
-://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.2.md)
+  * [2、看透构造方法](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.2.md)
   * [3、控制器加载的玄机](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.3.md)
   * [4、如何优雅地调试手机网页？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.4.md)
   * [5、事件响应者链](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.5.md)
@@ -48,7 +48,7 @@
   * [42、App security](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.42.md)
   * [43、奇技淫巧调试篇](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.43.md)
   * [44、Awesome Hybrid - 1](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.44.md)
-  * [45、NSTimer 的内存泄漏](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.45.md)
+  * [45、](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.45.md)
   * [46、KVC && KVO](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.46.md)
   * [47、金额格式化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.47.md)
   * [48、类别（Category）、拓展（Extension）、load、initialize](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.48.md)
@@ -117,3 +117,4 @@
   * [111、写给 iOSer 的鸿蒙开发 tips](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.111.md)
   * [112、Swift 枚举值内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.112.md)
   * [113、Swift 结构体和类的内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.113.md)
+  * [114、Swift 优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.114.md)
