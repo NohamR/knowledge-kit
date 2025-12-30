@@ -117,6 +117,8 @@
   * [112、Swift 枚举值内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.112.md)
   * [113、Swift 结构体和类的内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.113.md)
   * [114、Swift 优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.114.md)
+  * [115、AI 对端上的赋能](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.115.md)
+  * [147. Rust 在移动端可以做什么](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.147.md)
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
   * [2、正则表达式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.2.md)
@@ -162,6 +164,9 @@
   * [42、JS原型链与Objective-C内存布局不能说的秘密](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.43.md)
   * [43、Vue 核心原理探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.44.md)
   * [44、浏览器渲染原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.45.md)
+  * [45、内存管理之垃圾回收与内存泄漏](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.46.md)
+
+
 * [Chapter3 - Server](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.1.md)
   * [2、网页端扫码登录实现原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.2.md)
@@ -247,3 +252,5 @@
   * [25、对于”文件“的新认识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.26.md)
   * [26、敏捷软件开发和 Scurm Master](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.27.md)
   * [27、工作感悟和职场思考](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.28.md)
+* [Chapter8 - Algorithm](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/chapter8.md)
+  * [1、Leetcode968. 监控二叉树](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/8.1.md)
