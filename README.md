@@ -1,22 +1,18 @@
 ## **knowledge-kit**
 
+This is the English translation of the original repository: [https://github.com/FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)
 
+### Purpose
 
-### 目的
+Formally record explorations on the big front-end journey, mainly researching basic platform development, engineering efficiency, quality monitoring and assurance, SDK output, multi-end integration capabilities, dynamicization, componentization, and engineering capabilities.
 
-形式记录大前端路上的探索，主要研究基础平台开发、工程效率、质量监控保证、SDK 输出、多端融合能力、动态化、组件化、工程化能力。
+Technologies: iOS, Web front-end, back-end, Hybrid, Node applications, crawlers, anti-crawlers, back-end, databases, algorithms, and other fields.
 
-技术点: iOS、Web 前端、后端、Hybrid、Node 的应用、爬虫、反爬虫、后端、数据库、算法等领域。
+## Table of Contents
 
+For easy viewing of the article directory, please click [link](SUMMARY.md)
 
+## Feedback
 
-## 目录
-
-如果要方便的查看文章目录，请点击[链接](https://github.com/FantasticLBP/knowledge-kit/blob/master/SUMMARY.md)
-
-
-
-## 反馈
-
-定期更新博文，如果在查看文章的时候发现了问题可以提出 issue。
-有事情可以通过[微博](http://weibo.com/u/3194053975)联系
+Regularly update blog posts. If you find any issues while viewing the articles, you can raise an issue.
+For other matters, you can contact via [Weibo](http://weibo.com/u/3194053975)
